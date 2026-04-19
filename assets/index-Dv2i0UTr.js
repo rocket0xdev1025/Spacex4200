@@ -4751,7 +4751,7 @@ const $n = "/logo.png",
           {
             platform: "twitter",
             label: "Twitter", 
-            url: "https://x.com/SPCX4200_x",
+            url: "https://x.com/SPCX4200",
             iconSvg:
               '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.901 1.153h3.68l-8.039 9.188L24 22.847h-7.406l-5.8-7.584-6.634 7.584H.479l8.597-9.826L0 1.154h7.594l5.243 6.932L18.901 1.153Zm-1.29 19.494h2.038L6.486 3.24H4.298l13.313 17.407Z"/></svg>',
           },
