@@ -5195,7 +5195,7 @@ const $n = "/logo.png",
                           {
                             class: "brand-overline",
                           },
-                          "SPACEX4200 $SPACEX"
+                          "SPACEX4200 $SPCX"
                         ),
                         g("h1", null, "SPACEX4200"),
                       ]),
@@ -5283,7 +5283,7 @@ const $n = "/logo.png",
                           {
                             class: "hero-tag",
                           },
-                          "SOLANA $SPACEX CENTER"
+                          "SOLANA $SPCX CENTER"
                         ),
                         g(
                           "h2",
@@ -5293,12 +5293,12 @@ const $n = "/logo.png",
                         g(
                           "p",
                           null,
-                          " SPACEX4200, with ticker $SPACEX, is based on SpaceX's pre-IPO stock, currently trading at $116, and taps into the memetic love of Asuka and the world’s answer of '42.' Built on blockchain technology, $SPACEX brings the excitement of SpaceX’s $11.9 billion funding journey across 30 rounds directly to the public, bypassing traditional investment barriers. "
+                          " SPACEX4200, with ticker $SPCX, is based on SpaceX's pre-IPO stock, currently trading at $116, and taps into the memetic love of Asuka and the world’s answer of '42.' Built on blockchain technology, $SPCX brings the excitement of SpaceX’s $11.9 billion funding journey across 30 rounds directly to the public, bypassing traditional investment barriers. "
                         ),
                         g(
                           "p",
                           null,
-                          "With an eye on a potential $1 billion valuation, $SPACEX serves as a decentralized reflection of SpaceX’s growth, allowing enthusiasts to engage in the company’s journey through a unique, crypto-fueled lens."
+                          "With an eye on a potential $1 billion valuation, $SPCX serves as a decentralized reflection of SpaceX’s growth, allowing enthusiasts to engage in the company’s journey through a unique, crypto-fueled lens."
                         ),
                       ],
                       -1
