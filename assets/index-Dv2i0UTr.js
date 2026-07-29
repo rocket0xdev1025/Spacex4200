@@ -4728,7 +4728,7 @@ const $n = "/logo.png",
   jc = ["innerHTML"],
   $c = {
     class: "sr-only",
-  },
+  }, 
   tn = "4b1uiwbhMkqPTskQqTuFf68E8wY6gQfmDHytHwpApump",
   Hc = {
     __name: "App",
